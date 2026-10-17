@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mogenix": {
+      "type": "http",
+      "url": "https://mogenix.de/api/mcp"
+    }
+  }
+}

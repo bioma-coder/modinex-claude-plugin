@@ -1,0 +1,12 @@
+{
+  "name": "mogenix",
+  "owner": { "name": "MoGeniX", "url": "https://mogenix.de" },
+  "description": "Claude plugins for MoDineX, the restaurant POS by MoGeniX.",
+  "plugins": [
+    {
+      "name": "mogenix",
+      "source": "./plugins/mogenix",
+      "description": "MoDineX (by MoGeniX) restaurant data and menu drafts for Claude."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "mogenix",
+  "version": "0.2.0",
+  "description": "MoDineX restaurant POS by MoGeniX for Claude: read sales, menu, stock, supplier invoices, VAT and payroll totals and online orders from a connected MoDineX account, and prepare private menu-change drafts that are approved and executed only in the MoDineX app.",
+  "author": { "name": "MoGeniX", "url": "https://mogenix.de" },
+  "homepage": "https://mogenix.de",
+  "keywords": ["restaurant", "pos", "modinex", "sales", "menu", "inventory", "vat", "mcp"]
+}
